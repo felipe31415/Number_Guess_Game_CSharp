@@ -1,0 +1,15 @@
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\bin\Debug\net6.0\JogoFefe.exe
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\bin\Debug\net6.0\JogoFefe.deps.json
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\bin\Debug\net6.0\JogoFefe.runtimeconfig.json
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\bin\Debug\net6.0\JogoFefe.dll
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\bin\Debug\net6.0\JogoFefe.pdb
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.csproj.AssemblyReference.cache
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.AssemblyInfoInputs.cache
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.AssemblyInfo.cs
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.csproj.CoreCompileInputs.cache
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.dll
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\refint\JogoFefe.dll
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.pdb
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\JogoFefe.genruntimeconfig.cache
+C:\Users\felipesoares\source\repos\JogoFefe\JogoFefe\obj\Debug\net6.0\ref\JogoFefe.dll
